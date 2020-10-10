@@ -28,6 +28,4 @@ To follow this book, you need basic to medium-level knowledge of the Java progra
 ## Related Products
 * [Java 9 Concurrency Cookbook - Second Edition](https://www.packtpub.com/application-development/java-9-concurrency-cookbook-second-edition?utm_source=GitHub)
 
-* [Neural Network Programming with Java - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/neural-network-programming-java-second-edition?utm_source=GitHub)
-
 * [Java 9 with JShell](https://www.packtpub.com/application-development/java-9-jshell?utm_source=GitHub)
